@@ -1,7 +1,8 @@
 import React from "react";
+import MoviesList from "../components/MoviesList";
 
 function HomePage() {
-  return <div>HomePage</div>;
+  return <MoviesList />;
 }
 
 export default HomePage;
